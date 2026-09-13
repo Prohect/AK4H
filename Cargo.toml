@@ -1,0 +1,11 @@
+[package]
+name = "ak4h"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+sdave = "0.2.0"
+
+[lints.cargo]
+unused_dependencies = "allow"
