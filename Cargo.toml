@@ -5,7 +5,7 @@ edition = "2024"
 license = "MIT"
 
 [dependencies]
-sdave = "0.2.0"
+sdave = "0.2"
 
 [lints.cargo]
 unused_dependencies = "allow"
